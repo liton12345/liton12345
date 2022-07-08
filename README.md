@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @liton12345
-- 👀 I’m interested in Web Devoloping , App Devoloping
-- 🌱 I’m currently learning Flutter and Java
-- 💞️ I’m looking to collaborate on App Devolopment
+- 👋 Hi, I’m Papai Biswas ( @liton12345 )
+- 👀 I’m interested in Web Devolopment , App Devolopment
+- 😊 I’m currently work on Flutter and Java
+- 🤝 I’m looking to collaborate on App Devolopment
 - 📫 Contact me litonm123b@gmail.com
 
 <!---
